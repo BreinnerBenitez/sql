@@ -1,7 +1,7 @@
 # **mysql con workbench**
 ___
 ## **ejercicio**
-![ejercicio](basededatos.peg)
+![ejercicio](basededatos.jpeg)
 
 ## **solucion**
 ![ejercicio](modeloentidadrelacion.PNG)
