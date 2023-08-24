@@ -6,4 +6,4 @@ ___
 ## **solucion**
 ![ejercicio](modeloentidadrelacion.PNG)
 
->> **porfavor revisar el script  gracias por estar aqui.**
+>> **porfavor revisar el script, gracias por estar aqui.**
